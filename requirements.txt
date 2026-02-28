@@ -1,1 +1,6 @@
-
+pandas
+requests
+sqlalchemy
+mysql-connector-python
+numpy
+scipy
