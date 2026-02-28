@@ -5,3 +5,4 @@ DB_CONFIG = {
     "port": "3306",
     "database": "Dashboard"
 }
+config.py
